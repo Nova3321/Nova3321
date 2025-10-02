@@ -11,7 +11,7 @@
 - **Tools**: Git, Docker, Maven, VS Code, IntelliJ, Eclipse  
 
 ## 📌 Featured Projects
-- [Churn Prediction on Telco Customers](repo_link)  
+- [Churn Prediction on Telco Customers]([repo_link](https://github.com/Nova3321/LabPhase))  
   Machine learning model to predict customer churn using Python & Scikit-learn.  
 
 - [Movie Recommendation System](repo_link)  
